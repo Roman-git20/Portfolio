@@ -1,6 +1,9 @@
 # Portfolio
 Project portfolio demonstrates skills that I already can use.
 
+Application for comparing sorting algorithms in C++ using Qt. There are Quick, Merge and Select sorts in this version.
+<a href="https://github.com/Roman-git20/SortsComparison">SortsComparison</a>
+
 Messenger that is a web-site with data base and general chat.
 <a href="https://github.com/Roman-git20/Messenger">Messenger на GitHub</a>
 
